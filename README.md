@@ -26,8 +26,12 @@ Assignment's Course : Artificial Intelligence Techniques
 
 ## 🔧 Dataset
 ``` 
-- File: `dataset.csv`  
-- Features: 17 (e.g., age, gender, BMI, smoking status, physical activity, dietary habits) 
+- File: `dataset.csv`
+
+- Features: 17 (e.g., age, gender, BMI, smoking status, physical activity, dietary habits)
+ 
 - Label: Cardiovascular risk level (low, medium, high)
-- Challenges: Contains missing values and noisy entries—requires imputation, outlier handling, and feature encoding.
+
+- Challenges: Contains missing values and noisy entries—requires imputation, 
+  outlier handling, and feature encoding.
 ```

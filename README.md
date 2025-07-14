@@ -1,4 +1,4 @@
-<h1 align="center">✨ Cardiovascular Risk Prediction System ✨</h1>
+<h1 align="center">✨ Cardiovascular Risk Prediction ✨</h1>
 
 Assignment's Course : Artificial Intelligence Techniques
 
